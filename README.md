@@ -14,7 +14,7 @@ I summarize each chapter in a **Jupyter notebook** with:
 
 ---
 📜 License
-This project is released under the MIT License – see the LICENSE file for details.
+This project is released under the MIT License – see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
 
 ---
 🤝 Contributing
